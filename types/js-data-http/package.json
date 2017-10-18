@@ -1,0 +1,5 @@
+{
+    "dependencies": {
+        "@types/js-data": "^2.8.31"
+    }
+}
